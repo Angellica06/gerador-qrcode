@@ -1,4 +1,4 @@
-# Gerador de QRCode e password com node.js
+# Gerador de QRCode e Senha com node.js
 
 ## Sobre
 Projeto 'Criando um Gerador de QR Codes para E-commerces com Node.js'. Com objetivo de criar
